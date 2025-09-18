@@ -1,0 +1,15 @@
+# Artefactos locales
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+# Exportaciones
+/export/
+
+# Ignorar carpetas de recursos locales que no deben subirse
+
+# Dentro de Confluence/
+Confluence/recursos_local/
+
+# Dentro de Confluence/RevistaEjercitoWiki/
+WikiLab/recursos_local/

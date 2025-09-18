@@ -1,7 +1,0 @@
-# Artefactos locales
-.DS_Store
-Thumbs.db
-*.tmp
-~$*
-# Exportaciones
-/export/
